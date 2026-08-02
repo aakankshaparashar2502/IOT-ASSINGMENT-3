@@ -18,3 +18,13 @@ https://github.com/aakankshaparashar2502/Bluetooth-Home-light-controller-
 4. Climate Monitering System  :
 
    https://github.com/aakankshaparashar2502/Smart-Room-Climate-Moniter-/blob/main/README.md
+
+
+
+
+
+
+   Drone assignment
+
+
+   https://github.com/aakankshaparashar2502/IOT-ASSINGMENT-3/blob/main/README.md
